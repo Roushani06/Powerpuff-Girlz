@@ -1,0 +1,7 @@
+[theme]
+primaryColor="purple"
+backgroundColor = "rgba(234,234,234,0.5)"
+secondaryBackgroundColor="#A8872B"
+textColor="#001F3F"
+font =  "Baskerville , serif"
+font-weight = "bold"
