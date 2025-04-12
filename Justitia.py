@@ -10,7 +10,7 @@ st.set_page_config(
 st.title("Justitia-Replying to your queries")
 
 #setting up model
-GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY")
+GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY") # Secret api key
 genai.configure(api_key=GOOGLE_API_KEY)
 model = genai.GenerativeModel('gemini-2.0-flash')
 
