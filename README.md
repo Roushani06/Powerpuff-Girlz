@@ -4,7 +4,7 @@ ByteVerse'25
 
 ## Presentation and Video link
 
-- Presentation Link :
+- Presentation Link : (https://1drv.ms/p/c/d8bd08453de280e1/EbmA8QXdcpdLvQpTmhBCLp8Bl2dfZ7Zrlbd9h5PI7Ei2-Q?e=HZLCbd)
 - Video Link :
 
 ## Deployment Link
